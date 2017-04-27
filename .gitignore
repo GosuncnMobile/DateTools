@@ -18,5 +18,11 @@ DerivedData
 *.xccheckout
 .build/
 
+
+
 #CocoaPods
 Pods
+
+Carthage/Build
+
+DateTools.framework.zip

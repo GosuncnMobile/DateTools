@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "908837C81B637C240063096B"
+               BlueprintIdentifier = "528569E21EB1E48300B81D0E"
                BuildableName = "DateTools.framework"
-               BlueprintName = "DateTools iOS"
-               ReferencedContainer = "container:DateToolsExample.xcodeproj">
+               BlueprintName = "DateTools"
+               ReferencedContainer = "container:DateTools.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "528569EB1EB1E48300B81D0E"
+               BuildableName = "DateToolsTests.xctest"
+               BlueprintName = "DateToolsTests"
+               ReferencedContainer = "container:DateTools.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "528569E21EB1E48300B81D0E"
+            BuildableName = "DateTools.framework"
+            BlueprintName = "DateTools"
+            ReferencedContainer = "container:DateTools.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "908837C81B637C240063096B"
+            BlueprintIdentifier = "528569E21EB1E48300B81D0E"
             BuildableName = "DateTools.framework"
-            BlueprintName = "DateTools iOS"
-            ReferencedContainer = "container:DateToolsExample.xcodeproj">
+            BlueprintName = "DateTools"
+            ReferencedContainer = "container:DateTools.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "908837C81B637C240063096B"
+            BlueprintIdentifier = "528569E21EB1E48300B81D0E"
             BuildableName = "DateTools.framework"
-            BlueprintName = "DateTools iOS"
-            ReferencedContainer = "container:DateToolsExample.xcodeproj">
+            BlueprintName = "DateTools"
+            ReferencedContainer = "container:DateTools.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
